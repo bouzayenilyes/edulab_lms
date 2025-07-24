@@ -43,7 +43,7 @@ Live Demo: [https://edulab.hivetheme.com](https://edulab.hivetheme.com)
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/edulab-lms.git
+git clone https://github.com/bouzayenilyes/edulab-lms.git
 cd edulab-lms
 ```
 
