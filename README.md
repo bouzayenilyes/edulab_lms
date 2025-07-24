@@ -100,7 +100,7 @@ This is a frontend UI template; no tests are included by default. You can integr
 
 ## 🙋 Support
 
-For help, questions, or licensing, contact [hivetheme.com](https://hivetheme.com/contact)
+For help, questions, or licensing, contact [ilyesbouzayen.com](https://bouzayenilyes.vercel.app)
 
 ---
 
@@ -112,5 +112,5 @@ This project is under a commercial license. Please purchase a valid license befo
 
 ## 💡 Credits
 
-Developed by [HiveTheme](https://hivetheme.com) - UI Templates for Professionals.
+Developed by [Ilyes Bouzayen](https://bouzayenilyes.vercel.app) - UI Templates for Professionals.
 
